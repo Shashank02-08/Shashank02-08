@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi, I'm Shashank Garg 👋
 
-<!--
-**Shashank02-08/Shashank02-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer
+🎓 3rd Year B.Tech Student @ MIET
+🚀 Building AI-powered software products
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm passionate about building software that solves real-world problems.
+
+Currently I'm working on SmartIntern AI, an AI-powered internship matching platform featuring:
+
+- JWT Authentication
+- OTP Email Verification
+- Resume Parsing
+- AI-based Skill Matching
+- Internship Recommendation Engine
+
+I'm interested in:
+
+- Software Engineering
+- Backend Development
+- Full Stack Development
+- Artificial Intelligence
+- System Design
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+Python • TypeScript • JavaScript • SQL • C++
+
+### Frontend
+
+React
+HTML
+CSS
+
+### Backend
+
+Flask
+REST APIs
+
+### Database
+
+MongoDB
+MySQL
+
+### Tools
+
+Git
+GitHub
+Postman
+Render
+Vercel
+Brevo
+
+---
+
+## 🚀 Featured Project
+
+### SmartIntern AI
+
+An AI-powered internship matching platform.
+
+Features
+
+- Resume Parsing
+- AI Matching Engine
+- Secure JWT Authentication
+- OTP Email Verification
+- AICTE Internship Recommendation
+
+Tech Stack
+
+React
+Flask
+MongoDB
+TypeScript
+
+---
+
+## 🌱 Currently Learning
+
+- System Design
+- Data Structures & Algorithms
+- Backend Architecture
+- AI Integration
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:www.linkedin.com/in/shashank-garg-3b4374327
+GitHub:https://github.com/Shashank02-08
+Email:shashank02garg@gmail.com
