@@ -48,6 +48,8 @@ Brevo
 ### SmartIntern AI
 An AI-powered internship matching platform.
 
+🔗 Live Demo: [smartintern-ai.vercel.app](https://smartintern-ai.vercel.app/)
+
 Features
 - Resume Parsing
 - AI Matching Engine
