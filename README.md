@@ -23,7 +23,7 @@ I'm interested in:
 ---
 ## 🛠 Tech Stack
 ### Languages
-Python  • JavaScript • SQL
+Python • JavaScript • SQL • C++
 ### Frontend
 React
 HTML
@@ -39,11 +39,12 @@ MySQL
 ### Tools
 Git
 GitHub
-Thunder Client
+Postman
 Render
 Vercel
 Brevo
-nodemailer
+Pandas
+NumPy
 ---
 ## 🚀 Featured Projects
 ### SmartIntern AI
@@ -62,7 +63,6 @@ Tech Stack
 React
 Flask
 MongoDB
-TypeScript
 
 ### PlacementOS
 AI-powered placement preparation platform for students.
@@ -76,11 +76,17 @@ Features
 - Recruiter Module
 - Company Module
 - Internship APIs
+- AI Resume Analysis using Google Gemini API (ATS score, skill gaps, suggestions)
+- Request validation, rate limiting, and Helmet security middleware
+- Resume upload handling with Multer
 
 Tech Stack
 Node.js
 Express.js
 MongoDB
+Mongoose
+Gemini API
+Nodemailer
 
 Frontend: Currently under development.
 ---
