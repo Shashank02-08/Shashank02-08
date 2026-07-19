@@ -23,7 +23,7 @@ I'm interested in:
 ---
 ## 🛠 Tech Stack
 ### Languages
-Python • TypeScript • JavaScript • SQL • C++
+Python  • JavaScript • SQL
 ### Frontend
 React
 HTML
@@ -39,10 +39,11 @@ MySQL
 ### Tools
 Git
 GitHub
-Postman
+Thunder Client
 Render
 Vercel
 Brevo
+nodemailer
 ---
 ## 🚀 Featured Projects
 ### SmartIntern AI
